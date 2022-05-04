@@ -1,5 +1,3 @@
-# ADS_Assignment
-
 # INTROSORT
 
 > In c++ library, default sort function uses the intro sort.
@@ -8,13 +6,13 @@
 2) Quick Sort
 3) Heap Sort
 
--Every sorting algorithm has its advantage and disadvantage.
--So intro sort, uses the advantage of this three basic algorithm to improve the time complexity.
+- Every sorting algorithm has its advantage and disadvantage.
+- So intro sort, uses the advantage of this three basic algorithm to improve the time complexity.
 Insertion for small input will not take much time.
--Quick sort for small input will create so many function calls recursion.
+- Quick sort for small input will create so many function calls recursion.
 As well as heap sort for less depth will work efficiently. So using this all aspects intro sort is 
 implemented.
--If input size is less then defined size then insertion sort will be used, else if depth is zero then use heap 
+- If input size is less then defined size then insertion sort will be used, else if depth is zero then use heap 
 sort else use quick sort
 
 <hr>
