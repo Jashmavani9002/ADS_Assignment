@@ -1,7 +1,7 @@
 # INTROSORT
 
 > In c++ library, default sort function uses the intro sort.
-- Intro sort is not nothing but, combination of three basics sorting algorithm
+- Intro sort is nothing but, combination of three basics sorting algorithm
 1) Insertion Sort
 2) Quick Sort
 3) Heap Sort
