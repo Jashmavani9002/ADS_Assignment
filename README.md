@@ -7,6 +7,7 @@
 1) Insertion Sort
 2) Quick Sort
 3) Heap Sort
+
 -Every sorting algorithm has its advantage and disadvantage.
 -So intro sort, uses the advantage of this three basic algorithm to improve the time complexity.
 Insertion for small input will not take much time.
